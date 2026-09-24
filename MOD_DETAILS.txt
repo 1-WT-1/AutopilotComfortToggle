@@ -1,0 +1,7 @@
+;MOD_ID|wt.AutopilotComfortToggle
+;MOD_NAME|Autopilot Comfort Limiter Toggle
+;AUTHOR|1-WT-1
+;MOD_ZIP_NAME|AutopilotComfortToggle.zip
+
+[center][b]Autopilot Comfort Limiter Toggle[/b][/center]
+Adds an in-game tuning toggle under Autopilot to disable acceleration comfort limits, allowing any ship to maneuver with full thruster authority in permanent performance mode.

@@ -1,0 +1,4 @@
+[1.0.0]
+1="* Initial release."
+2="* Added Acceleration comfort limiter toggle to the ship tuning menu."
+3="* Automatically disables Proximity alert slider when comfort limiter is disabled."
